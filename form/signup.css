@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+.form {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(bg2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.reg p {
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.reg input {
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+}
+
+.reg {
+    align-items: center;
+    align-content: center;
+}
